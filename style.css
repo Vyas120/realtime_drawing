@@ -1,0 +1,35 @@
+.head{
+    background-color: tomato;
+    font-size: 25px;
+    border-radius: 7;
+    width: 100%;
+    box-shadow: 5px 5px 10px gray;
+    margin: 0px;
+}
+
+.notey{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    background-color: tomato;
+    position: fixed;
+    line-height: 2;
+    width: 100%;
+    box-shadow: 5px 5px 10px gray;
+    color: black;
+}
+
+canvas{
+    border: 6px solid darkgray;
+    box-shadow: 5px 5px 10px tomato;
+}
+
+video{
+    border: 4px solid darkgray;
+    box-shadow: 5px 5px 10px tomato;
+    margin-left: 100px;
+    margin-top: 60px;
+}
