@@ -26,7 +26,7 @@ function draw(){
 }
 
 function gotresults(results){
-    if(results.length < 0){
+    if(results.length > 0){
         console.log(results);
         NoseX = results[0].pose.nose.x;
         NoseY = results[0].pose.nose.y;
